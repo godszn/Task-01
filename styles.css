@@ -1,0 +1,56 @@
+body {
+    font-family: 'Roboto', sans-serif;
+   font-family: 'Rubik', sans-serif;
+   font-family: 'Wix Madefor Display', sans-serif;
+
+}
+
+.details-wrapper {
+    display: flex;
+    padding: 5rem;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+}
+
+.details-container {
+ align-items: center;
+ display: flex;
+ justify-content: center;
+ padding: 2.5rem;
+ border-radius: 1.5rem;
+ box-shadow: 2px 3px 8px darkseagreen;
+}
+
+.astroo {
+    height: 7rem;
+    width: 7rem;
+    border-radius: 50%;
+}
+
+.text-wrapper {
+    display: flex;
+    flex-direction: column;
+    padding: 0.5rem;
+}
+
+.date-container {
+    display: flex;
+}
+
+.date {
+    margin-right: .5rem;
+    font-weight: 400;
+}
+
+.time {
+    margin-left: .5rem;
+    font-weight: 400;
+}
+
+/* 
+git clone https://lojaytkn@github.com/Lojayszn/alx-pre_course.git
+
+/alx-zero_day/0x03-git/bash#
+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
+"Starting to code today, so cool" */
